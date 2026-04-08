@@ -1,79 +1,101 @@
+<div align="center">
+
 # 👋 Hi, I'm Thắng Nguyễn Công
 
-## 🚀 About Me
-- 💻 Backend Developer
-- 🧠 Interested in System Design, Clean Architecture, DDD
-- ⚙️ Currently working with NestJS, TypeScript
-- 🏗️ Focus on building scalable and maintainable systems
+💻 Backend Developer | 🧠 DDD Enthusiast | ⚙️ NestJS Lover  
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🧭 Overview
 
-**Languages**
-- TypeScript
-- JavaScript
+- 🔭 Focus: Building scalable backend systems
+- 🧱 Architecture: Clean Architecture & Domain-Driven Design (DDD)
+- ⚡ Tech Stack: TypeScript, NestJS, Node.js
+- 🎯 Goal: Write maintainable, testable, and modular code
 
-**Backend**
-- NestJS
-- Node.js
-- Express
+---
 
-**Architecture & Patterns**
+## 🛠 Tech Stack
+
+### 💻 Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🚀 Backend
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### 🗄 Database
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🧰 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+
+---
+
+## 🧱 Architecture & Patterns
+
 - Domain-Driven Design (DDD)
 - Clean Architecture
-- CQRS (basic understanding)
 - Repository Pattern
-- Factory / Strategy / Decorator Pattern
-
-**Database**
-- MongoDB
-- PostgreSQL (basic)
-
-**Tools**
-- Git & GitHub
-- Docker (basic)
-- Postman
-- Swagger
+- Factory Pattern
+- Strategy Pattern
+- Decorator Pattern
+- CQRS (basic understanding)
 
 ---
 
-## 📦 Projects
+## 📦 Featured Work
 
-### 🏷️ Project: Brand & Product Management System
-- Apply DDD structure
-- Separate domain / application / infrastructure / presentation layers
-- Use DTOs, Value Objects, and domain entities properly
-- Build RESTful APIs with NestJS
-
-### 🎯 Other Practices
-- Barcode validation as Value Object
-- DTO validation using class-validator
-- Modular architecture in NestJS
+### 🏷️ Brand & Product Management System
+- DDD-based modular structure
+- Clear separation of:
+  - Domain
+  - Application
+  - Infrastructure
+  - Presentation
+- DTO validation with class-validator
+- Value Objects (e.g. Barcode, ProductName)
+- RESTful APIs with NestJS
 
 ---
 
-## 🧠 What I'm Learning
+## 🧠 Currently Learning
+
 - Advanced DDD (Aggregates, Bounded Contexts)
 - Microservices architecture
 - Event-driven systems
-- System design at scale
+- System design & scalability
 - Performance optimization
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
+
+</div>
+
+---
+
 ## 📫 Contact
-- Email: your-email@example.com
-- GitHub: https://github.com/your-username
-- LinkedIn: (optional)
+
+- 📧 Email: your-email@example.com  
+- 💼 LinkedIn: https://linkedin.com/in/your-profile  
+- 🐙 GitHub: https://github.com/your-username  
 
 ---
 
-## ⚡ Fun Facts
-- I enjoy writing clean and maintainable code
-- I like breaking problems into small domain models
-- Always trying to improve architecture thinking instead of just coding
+<div align="center">
 
----
+⭐ *"Clean code + good architecture > quick hacks"* ⭐
 
-> “Code is not just for machines, it's for humans first.”
+</div>
