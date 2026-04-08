@@ -1,71 +1,81 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,5,10&height=220&section=header&text=Thắng%20Nguyễn%20Công&fontSize=75&animation=fadeIn&fontAlignY=40&desc=The%20Backend%20Architect&descAlignY=60&descSize=25" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=25,30,40&height=220&section=header&text=Hi, I'm Thắng Nguyen Cong&fontSize=65&animation=fadeIn&fontAlignY=35&desc=Backend Engineer | DDD & Clean Architecture | NestJS Lover&descAlignY=60&descSize=20&fontColor=fff" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=3178C6&center=true&vCenter=true&width=600&lines=Building+Modular+Systems;DDD+%26+Clean+Architecture;NestJS+Specialist;Scalable+Backend+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=600&size=26&pause=1000&color=CCCCFF&center=true&vCenter=true&width=650&lines=Xây+dựng+hệ+thống+backend+mềm+mỏng;Đam+mê+Kiến+trúc+Sạch;Yêu+thích+NestJS;Viết+code+dễ+hiểu,+dễ+bảo+trì" alt="Typing SVG" />
 </a>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/thangnc?style=for-the-badge&logo=github&color=24292e&logoColor=fff" alt="Stars">
-  <img src="https://img.shields.io/badge/Main%20Stack-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="Stack">
-  <img src="https://img.shields.io/badge/Architecture-DDD-blue?style=for-the-badge" alt="DDD">
+  <img src="https://img.shields.io/github/stars/<your-github-username>?style=flat-square&logo=github&color=CCCCFF&logoColor=555" alt="Stars">
+  <img src="https://img.shields.io/badge/Main%20Stack-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="Stack">
+  <img src="https://img.shields.io/badge/Architecture-DDD-B0E57C?style=flat-square" alt="DDD">
+  <img src="https://img.shields.io/github/languages/count/<your-github-username>?style=flat-square&color=CCCCFF" alt="Langs">
 </p>
 
----
-
-### 🧬 My Engineering Mindset
-> *“Hệ thống tốt không phải là hệ thống không bao giờ lỗi, mà là hệ thống được thiết kế để dễ dàng thay đổi và mở rộng.”*
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thangnc&theme=tokyonight" width="100%"/>
 </div>
 
 ---
 
-### 🛠️ Tech Stack & Power Ups
+### 🌿 Phương châm làm việc của mình
+<p align="center">*"Code là tạm thời. Kiến trúc là vĩnh cửu."*</p>
 
 <div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=<your-github-username>&theme=tokyonight_duotone" width="100%"/>
+</div>
 
-| 💻 Languages | 🚀 Backend | 🗄️ Database | 🛠️ Tools |
+---
+
+### 🛠️ Bộ công cụ mình yêu thích
+<div align="center">
+
+| 📜 Ngôn ngữ | 🚀 Backend | 🗄️ Database | 🛠️ Công cụ |
 | :---: | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=ts,js&theme=dark" /> | <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express&theme=dark" /> | <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis&theme=dark" /> | <img src="https://skillicons.dev/icons?i=docker,git,githubactions,jest&theme=dark" /> |
+| <img src="https://skillicons.dev/icons?i=ts,js" /> | <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express" /> | <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis" /> | <img src="https://skillicons.dev/icons?i=docker,git,githubactions" /> |
 
+<br/>
+*(Cùng với nhiều công cụ khác như Swagger, Jest, Class-Validator, v.v.)*
 </div>
 
 ---
 
 ### 📦 Dự án trọng tâm: Brand Management (DDD)
-*Một kiệt tác về tính Module và Clean Code.*
+<p align="center">Một kiệt tác về tính Module và Clean Code, nơi mà logic nghiệp vụ được trân trọng.</p>
 
-- **🔥 Domain-Driven:** Xử lý nghiệp vụ phức tạp trong các Bounded Contexts.
-- **⚡ Clean Architecture:** Độc lập framework, dễ dàng thay thế database hoặc UI.
-- **🛡️ Quality Assurance:** Đảm bảo 100% logic được bao phủ bởi Unit Test.
-
----
-
-### 📊 GitHub Activity Snapshot
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thangnc&show_icons=true&theme=tokyonight&border_radius=20&hide_border=false&bg_color=0D1117&title_color=3178C6" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thangnc&layout=compact&theme=tokyonight&border_radius=20&hide_border=false&bg_color=0D1117&title_color=3178C6" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thangnc&theme=tokyonight&hide_border=false&background=0D1117&border_radius=20" width="100%" />
-</div>
+- **❤️ Domain Layer:** Nghiệp vụ phức tạp được isolate trong `Aggregates`, `Entities` và `Value Objects`.
+- **🍃 Application Layer:** Flow được kiểm soát tinh tế bởi `Use Cases` và `DTOs`.
+- **⚓ Infrastructure Layer:** Tách biệt framework và database thông qua `Repositories` và `Adaptors`.
+- **🔒 Validation:** Schema được validate nghiêm ngặt bằng `class-validator`.
+- **🛠️ Testing:** 100% logic được bao phủ bởi Unit/Integration Test.
 
 ---
 
-### 📫 Let's Connect!
+### 📊 Thống kê GitHub của mình
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=<your-github-username>&show_icons=true&theme=default&border_radius=20&hide_border=false&bg_color=FDFDFD&title_color=AEC6CF&icon_color=F7CAC9&text_color=555&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<your-github-username>&layout=compact&theme=default&border_radius=20&hide_border=false&bg_color=FDFDFD&title_color=AEC6CF&icon_color=F7CAC9&text_color=555" width="48%" />
+</div>
 
 <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=<your-github-username>&theme=default&hide_border=false&background=FDFDFD&border_radius=20&side_color=CCCCFF&title_color=AEC6CF&fire_color=99FFCC&streak_color=F7CAC9" width="100%" />
+</div>
 
-<a href="https://linkedin.com/in/thangnc"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:thang@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/thangnc"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+---
+
+### 📫 Kết nối với mình nhé!
+<div align="center">
+
+<a href="mailto:<your-email>">
+  <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/<your-linkedin-profile>">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/your-username">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" />
+</a>
 
 </div>
 
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=25,30,40&height=100&section=footer" width="100%"/>
