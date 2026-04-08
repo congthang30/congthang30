@@ -1,16 +1,79 @@
-## Hi there 👋
+# 👋 Hi, I'm Thắng Nguyễn Công
 
-<!--
-**congthang30/congthang30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 💻 Backend Developer
+- 🧠 Interested in System Design, Clean Architecture, DDD
+- ⚙️ Currently working with NestJS, TypeScript
+- 🏗️ Focus on building scalable and maintainable systems
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+**Languages**
+- TypeScript
+- JavaScript
+
+**Backend**
+- NestJS
+- Node.js
+- Express
+
+**Architecture & Patterns**
+- Domain-Driven Design (DDD)
+- Clean Architecture
+- CQRS (basic understanding)
+- Repository Pattern
+- Factory / Strategy / Decorator Pattern
+
+**Database**
+- MongoDB
+- PostgreSQL (basic)
+
+**Tools**
+- Git & GitHub
+- Docker (basic)
+- Postman
+- Swagger
+
+---
+
+## 📦 Projects
+
+### 🏷️ Project: Brand & Product Management System
+- Apply DDD structure
+- Separate domain / application / infrastructure / presentation layers
+- Use DTOs, Value Objects, and domain entities properly
+- Build RESTful APIs with NestJS
+
+### 🎯 Other Practices
+- Barcode validation as Value Object
+- DTO validation using class-validator
+- Modular architecture in NestJS
+
+---
+
+## 🧠 What I'm Learning
+- Advanced DDD (Aggregates, Bounded Contexts)
+- Microservices architecture
+- Event-driven systems
+- System design at scale
+- Performance optimization
+
+---
+
+## 📫 Contact
+- Email: your-email@example.com
+- GitHub: https://github.com/your-username
+- LinkedIn: (optional)
+
+---
+
+## ⚡ Fun Facts
+- I enjoy writing clean and maintainable code
+- I like breaking problems into small domain models
+- Always trying to improve architecture thinking instead of just coding
+
+---
+
+> “Code is not just for machines, it's for humans first.”
