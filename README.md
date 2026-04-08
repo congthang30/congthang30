@@ -1,21 +1,38 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,32,34&height=220&section=header&text=Hi, I'm Thắng Nguyen Cong&fontSize=60&animation=fadeIn&fontAlignY=35&desc=Backend Developer | DDD & Clean Architecture Enthusiast&descAlignY=60&descSize=20&fontColor=ffffff" width="100%"/>
+<!-- Header với hiệu ứng gradient động -->
+<img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:AEC6CF,50:F7CAC9,100:B0E57C&text=Thắng%20Nguyen%20Cong&fontColor=ffffff&fontSize=50&desc=Backend%20Architect%20|%20DDD%20Practitioner&descSize=20&descAlignY=65&fontAlignY=40&animation=twinkling" width="100%"/>
 
+<!-- Typing Animation cải tiến -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=600&size=24&pause=1000&color=AEC6CF&center=true&vCenter=true&width=600&lines=Xây+dựng+hệ+thống+backend+tinh+gọn;Đam+mê+Kiến+trúc+Sạch;NestJS+is+my+favorite+framework;Viết+code+bằng+cả+trái+tim+❤️" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=AEC6CF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Building+robust+backend+systems;Clean+Architecture+%7C+Domain-Driven+Design;NestJS+%2B+TypeScript+Enthusiast" alt="Typing SVG" />
 </a>
 
+<!-- Badges với hiệu ứng hover -->
 <p align="center">
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS">
-  <img src="https://img.shields.io/badge/DDD-Architecture-B0E57C?style=flat-square" alt="DDD">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TS">
+  <a href="https://nestjs.com/" target="_blank">
+    <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white&labelColor=0D1117" alt="NestJS" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/DDD-Architecture-00A86B?style=for-the-badge&labelColor=0D1117" alt="DDD" />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0D1117" alt="TypeScript" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Clean_Code-FF6B6B?style=for-the-badge&labelColor=0D1117" alt="Clean Code" />
+  </a>
+</p>
+
+<!-- Profile Views & Followers -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=congthang30&color=AEC6CF&style=for-the-badge&label=Profile+Views" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/congthang30?color=F7CAC9&style=for-the-badge&logo=github&label=Followers" alt="Followers" />
 </p>
 
 </div>
 
 ---
-
 ### 🌿 Về bản thân mình
 <p align="left">
 Mình là một Backend Developer thích sự gọn gàng và logic. Thay vì chạy theo những "quick hacks", mình tập trung vào việc xây dựng nền tảng vững chắc với <b>Clean Architecture</b> và <b>Domain-Driven Design (DDD)</b>.
