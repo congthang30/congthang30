@@ -25,13 +25,37 @@ Mình là một Backend Developer thích sự gọn gàng và logic. Thay vì ch
 
 ---
 
-### 🛠️ Bộ công cụ yêu thích
+### 🛠️ Technology Stack
 
 <div align="center">
 
-| 📜 Ngôn ngữ | 🚀 Frameworks | 🗄️ Database | ⚙️ DevOps |
-| :---: | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=ts,js" /> | <img src="https://skillicons.dev/icons?i=nestjs,nodejs" /> | <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis" /> | <img src="https://skillicons.dev/icons?i=docker,git,githubactions" /> |
+<!-- Languages -->
+<h4>💻 Ngôn ngữ</h4>
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,py&theme=light" />
+</p>
+
+<!-- Backend -->
+<h4>⚡ Backend & Frameworks</h4>
+<p>
+  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express&theme=light" />
+  <img src="https://img.shields.io/badge/DDD-FF6B6B?style=flat-square&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/CQRS-4ECDC4?style=flat-square&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Event%20Sourcing-45B7D1?style=flat-square&logoColor=white" height="40"/>
+</p>
+
+<!-- Database -->
+<h4>🗄️ Data Persistence</h4>
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&theme=light" />
+  <img src="https://img.shields.io/badge/TypeORM-FE0803?style=flat-square&logo=typeorm&logoColor=white" height="40"/>
+</p>
+
+<!-- DevOps -->
+<h4>🚀 DevOps & Tools</h4>
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,githubactions,linux&theme=light" />
+</p>
 
 </div>
 
