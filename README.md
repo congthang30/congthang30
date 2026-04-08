@@ -1,101 +1,85 @@
 <div align="center">
 
-# 👋 Hi, I'm Thắng Nguyễn Công
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,5&height=220&section=header&text=Hi,%20I'm%20Thắng!&fontSize=60&animation=twinkling&fontColor=ffffff" width="100%"/>
 
-💻 Backend Developer | 🧠 DDD Enthusiast | ⚙️ NestJS Lover  
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=E0234E&center=true&vCenter=true&width=600&lines=Backend+Developer;DDD+%26+Clean+Architecture+Enthusiast;NestJS+Lover+❤️" alt="Typing SVG" />
+</a>
 
-</div>
-
----
-
-## 🧭 Overview
-
-- 🔭 Focus: Building scalable backend systems
-- 🧱 Architecture: Clean Architecture & Domain-Driven Design (DDD)
-- ⚡ Tech Stack: TypeScript, NestJS, Node.js
-- 🎯 Goal: Write maintainable, testable, and modular code
-
----
-
-## 🛠 Tech Stack
-
-### 💻 Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### 🚀 Backend
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-### 🗄 Database
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🧰 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-
----
-
-## 🧱 Architecture & Patterns
-
-- Domain-Driven Design (DDD)
-- Clean Architecture
-- Repository Pattern
-- Factory Pattern
-- Strategy Pattern
-- Decorator Pattern
-- CQRS (basic understanding)
-
----
-
-## 📦 Featured Work
-
-### 🏷️ Brand & Product Management System
-- DDD-based modular structure
-- Clear separation of:
-  - Domain
-  - Application
-  - Infrastructure
-  - Presentation
-- DTO validation with class-validator
-- Value Objects (e.g. Barcode, ProductName)
-- RESTful APIs with NestJS
-
----
-
-## 🧠 Currently Learning
-
-- Advanced DDD (Aggregates, Bounded Contexts)
-- Microservices architecture
-- Event-driven systems
-- System design & scalability
-- Performance optimization
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
+*“Clean code + good architecture > quick hacks”* 🚀
 
 </div>
 
 ---
 
-## 📫 Contact
+### 👨‍💻 Về bản thân mình
 
-- 📧 Email: your-email@example.com  
-- 💼 LinkedIn: https://linkedin.com/in/your-profile  
-- 🐙 GitHub: https://github.com/your-username  
+Mình là một **Backend Developer** với định hướng xây dựng các hệ thống backend chịu tải cao, dễ bảo trì và có tính mở rộng tốt. Mình đặc biệt yêu thích việc áp dụng các mindset kiến trúc phần mềm vào code thực tế.
+
+- 🔭 **Mục tiêu cốt lõi:** Viết code sạch, dễ test và có tính module hóa cao.
+- 🧠 **Đang tập trung nghiên cứu:** Advanced DDD (Aggregates, Bounded Contexts), Microservices, Event-Driven Systems & Performance Optimization.
+- 🧱 **Patterns & Architecture:** Clean Architecture, Domain-Driven Design (DDD), CQRS, Repository, Factory, Strategy.
 
 ---
 
+### 🛠️ Tech Stack & Công cụ
+
 <div align="center">
 
-⭐ *"Clean code + good architecture > quick hacks"* ⭐
+**Ngôn ngữ & Backend Frameworks**<br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=ts,js,nestjs,nodejs&theme=dark" alt="Backend Stack" />
+</a>
+
+<br><br>
+
+**Database, DevOps & Tools**<br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,git,docker&theme=dark" alt="DB and DevOps Stack" />
+</a>
+
+<br>
+
+*(Cùng với Swagger, Class-Validator và các công cụ hỗ trợ khác)*
+
+</div>
+
+---
+
+### 📦 Dự án tiêu biểu
+
+#### 🏷️ Brand & Product Management System
+> Một hệ thống quản lý sản phẩm và thương hiệu được thiết kế chuẩn chỉ theo tư duy **Domain-Driven Design (DDD)**.
+
+- **Kiến trúc:** Phân tách ranh giới rõ ràng giữa *Domain, Application, Infrastructure,* và *Presentation*.
+- **Tính năng cốt lõi:** Quản lý Entity bằng Value Objects (Barcode, ProductName...), validate dữ liệu chặt chẽ với `class-validator` và DTOs.
+- **Công nghệ sử dụng:** NestJS, TypeScript, RESTful APIs.
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <a href="https://github.com/your-username">
+    <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Langs" width="48%" />
+  </a>
+</div>
+
+---
+
+### 📫 Kết nối với mình
+
+<div align="center">
+
+<a href="mailto:your-email@example.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://linkedin.com/in/your-profile">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/your-username">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
 
 </div>
